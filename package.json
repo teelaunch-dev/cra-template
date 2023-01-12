@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-Tech-React",
+  "name": "cra-template-tech",
   "version": "0.1.2",
   "keywords": [
     "react",
@@ -12,7 +12,7 @@
   "description": "The Kingdom template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/teelaunch-dev/cra-template-Tech-React",
+    "url": "https://github.com/teelaunch-dev/cra-template",
     "directory": "Tech-React"
   },
   "license": "MIT",
