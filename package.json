@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-TechReact",
+  "version": "0.1.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "tech-react"
+  ],
+  "readme": "README.md",
+  "description": "The Kingdom template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/teelaunch-dev/Tech-React",
+    "directory": "Tech-React"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
