@@ -42,7 +42,7 @@ We're following a pretty straight forward structure, [simply move files around u
 
 ### Theming
 
-This theme is used to boost our productivity in the comming projects
+This theme is used to boost our productivity in the coming projects
 
 ### Authorization
 
