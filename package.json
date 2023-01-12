@@ -12,8 +12,8 @@
   "description": "The Kingdom template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/teelaunch-dev/cra-template.git",
-    "directory": "cra-template"
+    "url": "https://github.com/teelaunch-dev/cra-template-tech.git",
+    "directory": "cra-template-tech"
   },
   "license": "MIT",
   "engines": {
