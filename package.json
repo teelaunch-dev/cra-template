@@ -13,7 +13,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/teelaunch-dev/cra-template-tech.git",
-    "directory": "cra-template-tech"
+    "directory": "/"
   },
   "license": "MIT",
   "engines": {
