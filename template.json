@@ -21,27 +21,6 @@
       "test": "react-scripts test",
       "eject": "react-scripts eject"
     },
-    "devDependencies": {
-      "@storybook/addon-actions": "^6.2.7",
-      "@storybook/addon-essentials": "^6.2.7",
-      "@storybook/addon-links": "^6.2.7",
-      "@storybook/preset-create-react-app": "^3.1.7",
-      "@storybook/react": "^6.2.7",
-      "@typescript-eslint/eslint-plugin": "^4.22.1",
-      "@typescript-eslint/parser": "^4.22.1",
-      "eslint": "^7.25.0",
-      "eslint-config-prettier": "^8.1.0",
-      "eslint-plugin-cypress": "^2.11.2",
-      "eslint-plugin-import": "^2.22.1",
-      "eslint-plugin-jsx-a11y": "^6.4.1",
-      "eslint-plugin-prettier": "^3.3.1",
-      "eslint-plugin-react": "^7.22.0",
-      "eslint-plugin-react-hooks": "^4.2.0",
-      "husky": "^6.0.0",
-      "lint-staged": "^10.5.4",
-      "miragejs": "^0.1.41",
-      "prettier": "2.2.1"
-    },
     "eslintConfig": {
       "extends": [
         "react-app",
@@ -53,11 +32,6 @@
         ">0.2%",
         "not dead",
         "not op_mini all"
-      ],
-      "development": [
-        "last 1 chrome version",
-        "last 1 firefox version",
-        "last 1 safari version"
       ]
     }
   }
